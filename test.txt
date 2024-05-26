@@ -11,3 +11,5 @@ feat_04
 test_01
 test_02
 feat_05
+feat_06
+test1
